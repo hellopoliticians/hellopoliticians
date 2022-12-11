@@ -31,7 +31,7 @@ const Page = (routerLocation, isAnimation) => {
     >
       <div>
         <div>
-          <Link style={{ textDecoration: "none" }} to="/2" animate="prev">
+          <Link style={{ textDecoration: "none" }} to="/2" animate="next">
             <div
               style={{
                 color: "#fff",

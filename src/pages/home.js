@@ -32,7 +32,7 @@ const Page = (routerLocation, isAnimation) => {
       transition={{ duration: 0.3 }}
     >
       <div>
-        <Link style={{ textDecoration: "none" }} to="/" animate="next">
+        <Link style={{ textDecoration: "none" }} to="/" animate="prev">
           <div
             style={{
               color: "#fff",
