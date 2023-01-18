@@ -49,7 +49,7 @@ const Page = (routerLocation, isAnimation) => {
               <div>
               <h1>Hello Politicians</h1>
               <br />
-              <h2>War doesn't overshadow your corruption.</h2>
+              <h2>War doesn't overshadow corruption.</h2>
               <br />
               <br />
               <p>January 2023</p>
