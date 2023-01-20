@@ -49,7 +49,14 @@ const Page = (routerLocation, isAnimation) => {
               <div>
               <h1>Hello Politicians</h1>
               <br />
-              <h2>War doesn't overshadow corruption.</h2>
+              <h2>There is no money for:</h2>
+              <h2>Healthcare</h2>
+              <h2>Education</h2>
+              <h2>Retirement Pensions</h2>
+              <br />
+              <br />
+              <h2>There is money for:</h2>
+              <h2>War</h2>
               <br />
               <br />
               <p>January 2023</p>
