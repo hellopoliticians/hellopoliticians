@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hellopoliticians/static/css/main.a99ee10a.chunk.css",
-    "main.js": "/hellopoliticians/static/js/main.fe9760c5.chunk.js",
-    "main.js.map": "/hellopoliticians/static/js/main.fe9760c5.chunk.js.map",
+    "main.js": "/hellopoliticians/static/js/main.9b71cff7.chunk.js",
+    "main.js.map": "/hellopoliticians/static/js/main.9b71cff7.chunk.js.map",
     "runtime-main.js": "/hellopoliticians/static/js/runtime-main.f9db3d46.js",
     "runtime-main.js.map": "/hellopoliticians/static/js/runtime-main.f9db3d46.js.map",
     "static/js/2.fcc3bc6a.chunk.js": "/hellopoliticians/static/js/2.fcc3bc6a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.f9db3d46.js",
     "static/js/2.fcc3bc6a.chunk.js",
     "static/css/main.a99ee10a.chunk.css",
-    "static/js/main.fe9760c5.chunk.js"
+    "static/js/main.9b71cff7.chunk.js"
   ]
 }
