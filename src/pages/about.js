@@ -49,18 +49,15 @@ const Page = (routerLocation, isAnimation) => {
               <div>
               <h1>Hello Politicians</h1>
               <br />
-              <h2>There is no money for:</h2>
-              <h2>Healthcare</h2>
-              <h2>Education</h2>
-              <h2>Retirement</h2>
-              <h2>Climate change</h2>
+              <h2>“War is peace.</h2>
+              <h2>Freedom is slavery.</h2>
+              <h2>Ignorance is strength.”</h2>
+              <br />
+              <p>George Orwell & Josep Borrell</p>
               <br />
               <br />
-              <h2>But there is money for:</h2>
-              <h2>War</h2>
               <br />
-              <br />
-              <p>January 2023</p>
+              <p>February 2023</p>
               </div>
             </div>
           </Link>
