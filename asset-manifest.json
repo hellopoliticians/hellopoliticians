@@ -1,20 +1,13 @@
 {
   "files": {
-    "main.css": "/hellopoliticians/static/css/main.a99ee10a.chunk.css",
-    "main.js": "/hellopoliticians/static/js/main.9b71cff7.chunk.js",
-    "main.js.map": "/hellopoliticians/static/js/main.9b71cff7.chunk.js.map",
-    "runtime-main.js": "/hellopoliticians/static/js/runtime-main.f9db3d46.js",
-    "runtime-main.js.map": "/hellopoliticians/static/js/runtime-main.f9db3d46.js.map",
-    "static/js/2.fcc3bc6a.chunk.js": "/hellopoliticians/static/js/2.fcc3bc6a.chunk.js",
-    "static/js/2.fcc3bc6a.chunk.js.map": "/hellopoliticians/static/js/2.fcc3bc6a.chunk.js.map",
+    "main.css": "/hellopoliticians/static/css/main.afd14df2.css",
+    "main.js": "/hellopoliticians/static/js/main.80eb5203.js",
     "index.html": "/hellopoliticians/index.html",
-    "static/css/main.a99ee10a.chunk.css.map": "/hellopoliticians/static/css/main.a99ee10a.chunk.css.map",
-    "static/js/2.fcc3bc6a.chunk.js.LICENSE.txt": "/hellopoliticians/static/js/2.fcc3bc6a.chunk.js.LICENSE.txt"
+    "main.afd14df2.css.map": "/hellopoliticians/static/css/main.afd14df2.css.map",
+    "main.80eb5203.js.map": "/hellopoliticians/static/js/main.80eb5203.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.f9db3d46.js",
-    "static/js/2.fcc3bc6a.chunk.js",
-    "static/css/main.a99ee10a.chunk.css",
-    "static/js/main.9b71cff7.chunk.js"
+    "static/css/main.afd14df2.css",
+    "static/js/main.80eb5203.js"
   ]
 }
