@@ -53,11 +53,11 @@ const Page = (routerLocation, isAnimation) => {
               <h2>Freedom is slavery.</h2>
               <h2>Ignorance is strength.”</h2>
               <br />
-              <p>George Orwell & Josep Borrell</p>
+              <p>by Stoltenberg, Blinken & Borrell</p>
               <br />
               <br />
               <br />
-              <p>February 2023</p>
+              <p>March 2023</p>
               </div>
             </div>
           </Link>
