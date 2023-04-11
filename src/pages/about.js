@@ -49,15 +49,16 @@ const Page = (routerLocation, isAnimation) => {
               <div>
               <h1>Hello Politicians</h1>
               <br />
-              <h2>“War is peace.</h2>
-              <h2>Freedom is slavery.</h2>
-              <h2>Ignorance is strength.”</h2>
-              <br />
-              <p>by Stoltenberg, Blinken & Borrell</p>
               <br />
               <br />
+              <h2>和平 | Peace | Paz | мир</h2>
+              {/* <h2>Freedom is slavery.</h2>
+              <h2>Ignorance is strength.”</h2> */}
               <br />
-              <p>March 2023</p>
+              <br />
+              <br />
+              <br />
+              <p>April 2023</p>
               </div>
             </div>
           </Link>
