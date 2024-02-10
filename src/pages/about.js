@@ -51,14 +51,11 @@ const Page = (routerLocation, isAnimation) => {
               <br />
               <br />
               <br />
-              <h2>和平 | Peace | мир | Paz</h2>
-              {/* <h2>Freedom is slavery.</h2>
-              <h2>Ignorance is strength.”</h2> */}
+              <h2>和平 | Peace | Paz | мир</h2>
               <br />
               <br />
               <br />
               <br />
-              <p>Mayo 2023</p>
               </div>
             </div>
           </Link>
