@@ -51,7 +51,8 @@ const Page = (routerLocation, isAnimation) => {
               <br />
               <br />
               <br />
-              <h2>和平 | Peace | Paz | мир</h2>
+              <h2>- War & Kill People</h2>
+              <h2>+ Global Cooperation</h2>
               <br />
               <br />
               <br />
