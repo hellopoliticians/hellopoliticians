@@ -29,7 +29,6 @@ const App = () => {
     <Switch>
       <Route {...animationProps} path="/2" exact component={Home} />
       <Route {...animationProps} path="/" component={About} />
-      {/* <Route {...animationProps} path="/news" component={News} /> */}
     </Switch>
   );
 };
