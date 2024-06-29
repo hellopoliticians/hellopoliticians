@@ -55,8 +55,8 @@ const Page = (routerLocation, isAnimation) => {
               <h2>+ Global Cooperation</h2>
               <br />
               <br />
-              <h3>The failures of Boeing and Airbus</h3>
-              <h3>in airplane sales are just the tip</h3>
+              <h4>You are killing our competitiveness with bureaucracy,</h4>
+              <h4>tariffs and taxes. Don't you see your mistake?.</h4>
               <br />
               <br />
               </div>
