@@ -47,17 +47,14 @@ const Page = (routerLocation, isAnimation) => {
               }}
             >
               <div>
-              <h1>Hello Politicians</h1>
+              {/* <h1>Hello Politicians</h1> */}
               <br />
               <br />
               <br />
-              <h2>- War & Kill People</h2>
-              <h2>+ Global Cooperation</h2>
+              <h1>Make love,</h1>
+              <h1>not war.</h1>
               <br />
               <br />
-              <h4>You are killing our competitiveness</h4>
-              <h4>with bureaucracy, tariffs and taxes.</h4>
-              <h4>Don't you see your mistake?.</h4>
               <br />
               </div>
             </div>
