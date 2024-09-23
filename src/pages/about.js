@@ -51,8 +51,8 @@ const Page = (routerLocation, isAnimation) => {
               <br />
               <br />
               <br />
-              <h1>Make love,</h1>
-              <h1>not war.</h1>
+              <h1>Make love</h1>
+              <h1>like war.</h1>
               <h1 style={{ fontSize: "150px" }}>☮</h1>
               <br />
               <br />
