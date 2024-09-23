@@ -55,6 +55,7 @@ const Page = (routerLocation, isAnimation) => {
               <br />
               <br />
               <br />
+              <br />
               <PeaceSymbol width={100} height={100} fill="white" />
               <br />
               </div>
