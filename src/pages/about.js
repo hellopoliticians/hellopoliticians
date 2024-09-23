@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import styled from "styled-components";
 import { Link, useLoad } from "react-router-dom-animation";
 import { motion } from "framer-motion";
+import { ReactComponent as PeaceSymbol } from './peace.svg';
 
 const Body = styled(motion.div)`
   width: 100%;
@@ -49,13 +50,12 @@ const Page = (routerLocation, isAnimation) => {
               <div>
               {/* <h1>Hello Politicians</h1> */}
               <br />
-              <br />
-              <br />
               <h1>Make love</h1>
               <h1>like war.</h1>
-              <h1 style={{ fontSize: "150px" }}>☮</h1>
               <br />
               <br />
+              <br />
+              <PeaceSymbol width={100} height={100} fill="white" />
               <br />
               </div>
             </div>
