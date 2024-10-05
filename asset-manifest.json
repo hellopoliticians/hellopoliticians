@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hellopoliticians/static/css/main.afd14df2.css",
-    "main.js": "/hellopoliticians/static/js/main.dcb5f788.js",
+    "main.js": "/hellopoliticians/static/js/main.f7852a4d.js",
     "static/media/peace.svg": "/hellopoliticians/static/media/peace.d76e23aa15867f033a959dc34ec2379d.svg",
     "index.html": "/hellopoliticians/index.html",
     "main.afd14df2.css.map": "/hellopoliticians/static/css/main.afd14df2.css.map",
-    "main.dcb5f788.js.map": "/hellopoliticians/static/js/main.dcb5f788.js.map"
+    "main.f7852a4d.js.map": "/hellopoliticians/static/js/main.f7852a4d.js.map"
   },
   "entrypoints": [
     "static/css/main.afd14df2.css",
-    "static/js/main.dcb5f788.js"
+    "static/js/main.f7852a4d.js"
   ]
 }
