@@ -3,7 +3,7 @@ import React from "react";
 import { Switch, Route } from "react-router-dom-animation";
 import Home from "./pages/home.js";
 import About from "./pages/about.js";
-import News from "./pages/news.js";
+// import News from "./pages/news.js";
 
 const animationProps = {
   style: {
