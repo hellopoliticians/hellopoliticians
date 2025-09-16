@@ -76,18 +76,12 @@ const Page = (routerLocation, isAnimation) => {
             }}
           >
             <div style={{ textAlign: 'center', width: '100%' }}>
-              <h1 style={{ margin: '0' }}>Symptoms Of Psychopathy:</h1>
+              <h2 style={{ margin: '0' }}>Hello Politicians</h2>
               <br />
               <br />
-              <div style={style}>
-                <h4>1. Behave in ways that cause other people physical, social, emotional, or financial harm.</h4><br />
-                <h4>2. Not concerned when others are in distress.</h4><br />
-                <h4>3. Lie to, use, or manipulate other persons in order to get what they want.</h4><br />
-                <h4>4. Not keep real friends.</h4><br />
-                <h4>5. Insincere or superficial.</h4>
-              </div>
+              <h1>STOP DIVIDING</h1>
+              {/* <PeaceSymbol width={50} height={50} fill="white" /> */}
             </div>
-            {/* <PeaceSymbol width={100} height={100} fill="white" /> */}
           </div>
         </Link>
       </div>
