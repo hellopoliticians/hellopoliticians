@@ -76,11 +76,11 @@ const Page = (routerLocation, isAnimation) => {
             }}
           >
             <div style={{ textAlign: 'center', width: '100%' }}>
-              <h2 style={{ margin: '0' }}>Hello Politicians</h2>
+              <h1 style={{ margin: '0' }}>Hello Politicians</h1>
               <br />
               <br />
-              <h1>STOP DIVIDING</h1>
-              {/* <PeaceSymbol width={50} height={50} fill="white" /> */}
+              <h2>The country is dying because of</h2>
+              <h2>unimaginative and corrupt old people.</h2>
             </div>
           </div>
         </Link>

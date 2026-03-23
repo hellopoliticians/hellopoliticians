@@ -49,8 +49,8 @@ const Page = (routerLocation, isAnimation) => {
           >
             <div>
               
-              <p>We want to build a better world, but</p>
-              <p>you are focused on boosting your careers.</p>
+              <p>We, the real people, want to build a better world, but</p>
+              <p>you are disgustingly focused on boosting your wallets.</p>
               <br />
               <p>hellopoliticians.com</p>
             </div>
